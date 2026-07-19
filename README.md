@@ -123,7 +123,7 @@ flowchart LR
 - **部署：** GitHub Pages + Supabase
 - **质量保障：** Node.js 自动化测试与静态安全检查
 
-- <h2>系统架构</h2>
+<h2>系统架构</h2>
 
 <p>
   GrowthPilot 将网页交互、经营数据、权限控制和大模型分析分开处理，确保经营数据不会直接暴露给模型。
